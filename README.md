@@ -13,4 +13,4 @@ the save and load scripts are needed because terraria saves your progress on the
 
 ##NOTE
 
-this is supposed to work with the USB drive letter being E , if you don't have it already set on E it will most probably not work, to change it go to the partition manager, right click on your USB device and click "change drive letter". then simply set it to E .
+this is supposed to work with the USB drive letter being E , if you don't have it already set on E it will most probably not work, to change it go to the partition manager, right click on your USB device and click "change drive letter". then simply set it to E . Or to make it easier use my other project i made here: https://github.com/Edo-Cal/Programs/blob/main/ChangeDriveLetter.zip
